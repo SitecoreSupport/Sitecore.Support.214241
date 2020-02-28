@@ -1,1 +1,1 @@
-﻿<%@ WebHandler Language="C#" CodeBehind="Search.ashx.cs" Class="ItemBuckets.Services.Support.Search" %>
+﻿<%@ WebHandler Language="C#" CodeBehind="Search.ashx.cs" Class="Support.ItemBuckets.Services.Search" %>
